@@ -1,1 +1,0 @@
-web: cd app && yarn build && yarn start
