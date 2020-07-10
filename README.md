@@ -1,3 +1,3 @@
 # Advancement Headless CMS
 
-A quick description of your strapi application.
+Headless CMS candidate for potentially multiple apps.
