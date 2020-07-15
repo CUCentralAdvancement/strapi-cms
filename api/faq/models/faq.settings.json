@@ -9,13 +9,17 @@
     "timestamps": true
   },
   "attributes": {
-    "Title": {
+    "Question": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "Answer": {
       "type": "richtext",
-      "required": true
+      "required": false
+    },
+    "Featured": {
+      "type": "boolean",
+      "default": false
     }
   }
 }
