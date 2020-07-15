@@ -20,7 +20,7 @@ module.exports = ({ env }) => {
     settings.database = parsed.pathname.substr(1);
     settings.username = username;
     settings.password = password;
-    settings.ssl = true;
+    // settings.ssl = true;
   }
 
   return {
